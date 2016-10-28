@@ -1,0 +1,26 @@
+{
+  "name": "reactempapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "anuv",
+  "license": "ISC",
+  "dependencies": {
+    "muicss": "^0.9.3",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.5",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.8.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "file-loader": "^0.9.0",
+    "react-bootstrap": "^0.30.5",
+    "url-loader": "^0.5.7"
+  }
+}
